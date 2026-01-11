@@ -6,7 +6,6 @@
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
 <img src="https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react"/>
 <img src="https://img.shields.io/badge/TailwindCSS-0f172a?style=for-the-badge&logo=tailwindcss"/>
@@ -68,7 +67,7 @@ Orientado a buenas prácticas, metodologías ágiles y trabajo colaborativo.
 Microservicio de autenticación con JWT, pruebas unitarias y frontend moderno en React.
 
 💳 **Préstamos Stack**  
-Sistema completo financiero con Backend, Frontend y base de datos.
+Sistema completo con Backend, Frontend y base de datos.
 
 🧾 **Facturación API - Spring Boot**  
 API REST de facturación con arquitectura limpia.
